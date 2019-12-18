@@ -4,12 +4,8 @@ public class petRunner
 	{
 	public static void main(String[] args)
 		{
-//		Animal [] animal = new Animal [4];
-//		animal[0] = new Bat();
-//		animal[1] = new Cow();
-//		animal[2] = new Penguin();
-//		animal[3] = new Robin();
-		
+
+		// hello fvdb
 		ArrayList <pet> critters = new ArrayList <pet>();
 		critters.add(new hamster("John", "seeds", "squeek", "scitter and runs on the wheel", "sleeps in the day, stays up all night"  ));
 		critters.add(new hedgehog("Spikes", "bugs and worms", "rolles into a spike ball", "sleepin all day and night" ));
